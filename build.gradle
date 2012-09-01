@@ -13,7 +13,7 @@ group = 'visagesampleapps'
 
 
 // Add your fully qualified Visage Main class path here
-mainVisageClass='javafx.HelloVisageFX'
+mainVisageClass='javafx.sample.HelloVisageFX'
 
 
 task runVisage (type: Exec) {
