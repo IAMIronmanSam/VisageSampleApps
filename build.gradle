@@ -13,7 +13,7 @@ group = 'visagesampleapps'
 
 
 // Add your fully qualified Visage Main class path here
-mainVisageClass='javafx.sample.HelloVisageFX'
+mainVisageClass='javafx.scene.control.CheckBoxDemo'
 
 
 task runVisage (type: Exec) {
